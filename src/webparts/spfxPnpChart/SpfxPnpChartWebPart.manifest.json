@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "37626e48-4ed8-4949-9f45-2c7c53fa5de9",
+  "alias": "SpfxPnpChartWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart"],
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "spfxPnpChart" },
+    "description": { "default": "spfxPnpChart description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfxPnpChart"
+    }
+  }]
+}
