@@ -2,7 +2,7 @@
 
 To render chart using React dynamically from sharepoint list.
 
-![spfxPnpChart](Images/chart.jpg)
+![spfxPnpChart](Images/chart.JPG)
 
 ## Solution
 
